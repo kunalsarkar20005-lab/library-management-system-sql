@@ -128,9 +128,6 @@ return_status
 # 🎯 Learning Outcomes
 
 <div align="center">
-
-<img width="10%" src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png"/>
-
 </div>
 
 ✅ Database Normalization  
