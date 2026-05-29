@@ -1,99 +1,182 @@
-<h1 align="center">📚 Library Management System using SQL</h1>
+<div align="center">
 
-<p align="center">
-A relational database project designed to manage and organize library operations efficiently using SQL.
-</p>
+# 📚 Library Management System
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Project-SQL%20Database-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Type-DBMS-orange?style=for-the-badge">
-</p>
+### 🚀 SQL • DBMS • Relational Database Project
 
----
+<br>
 
-## 📌 Project Overview
+<img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Language-SQL-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Project-DBMS-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Completed-purple?style=for-the-badge"/>
 
-This project is a **Library Management System** built using SQL and relational database concepts.  
-It helps manage books, employees, branches, members, and issue-return transactions in an organized way.
+<br><br>
 
-The project demonstrates how SQL can be used to handle real-world database operations efficiently.
+<img width="100%" src="library-management-preview.png"/>
+
+</div>
 
 ---
 
-## ✨ Features
+# 🌟 Project Overview
 
-✅ Database Design using Relational Model  
-✅ Primary & Foreign Key Relationships  
-✅ CRUD Operations  
-✅ Advanced SQL Queries  
-✅ Analytical Querying  
-✅ Data Management & Tracking  
+<div align="center">
+
+<img width="85%" src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png"/>
+
+</div>
+
+The **Library Management System** is a SQL-based relational database project developed to manage and organize library operations efficiently.
+
+This project demonstrates how databases are used in real-world systems for:
+
+📚 Managing Books  
+👤 Handling Members  
+🏢 Managing Branches  
+👨‍💼 Employee Records  
+🔄 Book Issue & Return Tracking  
 
 ---
 
-## 🗂 Database Tables
+# ✨ Core Features
 
-| Table Name | Description |
+<div align="center">
+
+| 🚀 Feature | 📖 Description |
 |---|---|
-| `branch` | Stores branch details |
-| `employees` | Stores employee information |
-| `members` | Stores library member data |
-| `books` | Stores book details |
-| `issued_status` | Tracks issued books |
-| `return_status` | Tracks returned books |
+| 🗄️ Database Design | Structured relational schema |
+| 🔑 Primary & Foreign Keys | Data relationship management |
+| 🔄 CRUD Operations | Insert, Update, Delete, Retrieve |
+| 📊 SQL Queries | Advanced analytical queries |
+| 📈 Reporting | Data analysis & insights |
+| ⚡ Query Optimization | Efficient data handling |
+
+</div>
 
 ---
 
-## 📊 SQL Concepts Used
+# 🗂️ Database Structure
 
-- JOIN Operations
-- LEFT JOIN
-- GROUP BY & HAVING
-- Aggregate Functions
-- Window Functions (`RANK`)
-- CTAS (Create Table As Select)
-- Subqueries
+<div align="center">
 
----
+<img width="90%" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"/>
 
-## 🚀 Key Query Analysis
+</div>
 
-📌 Members who issued multiple books  
-📌 Books not yet returned  
-📌 Ranking members based on issued books  
-📌 Employee and branch relationship analysis  
-📌 Books above rental price threshold  
+```sql
+branch
+employees
+members
+books
+issued_status
+return_status
+```
 
 ---
 
-## 🛠 Technologies Used
+# 📊 SQL Concepts Used
 
-- MySQL
-- SQL
-- Relational Database Concepts
+<div align="center">
 
----
+<img width="70%" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png"/>
 
-## 🎯 Learning Outcomes
+</div>
 
-- Database Design
-- Relational Mapping
-- SQL Query Optimization
-- Data Analysis using SQL
-- CRUD Operations
-- Analytical Querying
-
----
+| 💡 Concept | 📖 Purpose |
+|---|---|
+| JOINS | Combining multiple tables |
+| GROUP BY | Aggregating data |
+| HAVING | Filtering grouped data |
+| WINDOW FUNCTIONS | Ranking analysis |
+| SUBQUERIES | Nested query execution |
+| CTAS | Create table using query |
 
 ---
 
-## 📌 Conclusion
+# 🔍 Advanced Query Analysis
 
-This project demonstrates how SQL can be used to build a structured and scalable Library Management System while applying practical database management and querying techniques.
+<div align="center">
+
+<img width="75%" src="https://cdn-icons-png.flaticon.com/512/2620/2620971.png"/>
+
+</div>
+
+### 📌 Implemented Queries
+
+✔ Members who issued multiple books  
+✔ Books not yet returned  
+✔ Ranking members using `RANK()`  
+✔ Employee & branch relationship analysis  
+✔ Books above rental price threshold  
 
 ---
 
-## 👨‍💻 Author
+# 🛠️ Technologies Used
 
-Kunal Sarkar
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</div>
+
+---
+
+# 🎯 Learning Outcomes
+
+<div align="center">
+
+<img width="70%" src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png"/>
+
+</div>
+
+✅ Database Normalization  
+✅ SQL Query Writing  
+✅ CRUD Operations  
+✅ Data Management  
+✅ Relational Mapping  
+✅ Analytical Querying  
+
+---
+
+# 📈 Project Highlights
+
+<div align="center">
+
+| 📌 Highlight | 🚀 Impact |
+|---|---|
+| Real-world DBMS Project | Practical Implementation |
+| Structured SQL Design | Organized Database |
+| Analytical Queries | Business Insights |
+| Relational Mapping | Better Data Integrity |
+| Advanced SQL | Efficient Query Execution |
+
+</div>
+
+---
+
+# 📌 Conclusion
+
+<div align="center">
+
+<img width="65%" src="https://cdn-icons-png.flaticon.com/512/942/942748.png"/>
+
+</div>
+
+This project demonstrates how SQL and relational database concepts can be used to build a scalable and efficient **Library Management System** while applying practical database management and analytical querying techniques.
+
+---
+
+# 👨‍💻 Author
+
+<div align="center">
+
+<img width="120" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"/>
+
+## Kunal Sarkar
+
