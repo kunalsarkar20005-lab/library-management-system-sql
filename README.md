@@ -86,12 +86,6 @@ The project demonstrates how SQL can be used to handle real-world database opera
 
 ---
 
-## 📷 Project Preview
-
-<p align="center">
-  <img src="library-management-preview.png" width="100%">
-</p>
-
 ---
 
 ## 📌 Conclusion
