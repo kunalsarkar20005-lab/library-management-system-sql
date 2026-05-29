@@ -98,8 +98,6 @@ return_status
 
 <div align="center">
 
-<img width="16%" src="https://cdn-icons-png.flaticon.com/512/2620/2620971.png"/>
-
 </div>
 
 ### 📌 Implemented Queries
