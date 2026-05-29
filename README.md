@@ -13,7 +13,7 @@
 
 <br><br>
 
-<img width="100%" src="library-management-preview.png"/>
+<img width="50%" src="library-management-preview.png"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img width="85%" src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png"/>
+<img width="45%" src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png"/>
 
 </div>
 
@@ -60,7 +60,7 @@ This project demonstrates how databases are used in real-world systems for:
 
 <div align="center">
 
-<img width="90%" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"/>
+<img width="45%" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"/>
 
 </div>
 
@@ -79,7 +79,7 @@ return_status
 
 <div align="center">
 
-<img width="70%" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png"/>
+<img width="45%" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png"/>
 
 </div>
 
@@ -98,7 +98,7 @@ return_status
 
 <div align="center">
 
-<img width="75%" src="https://cdn-icons-png.flaticon.com/512/2620/2620971.png"/>
+<img width="46%" src="https://cdn-icons-png.flaticon.com/512/2620/2620971.png"/>
 
 </div>
 
@@ -131,7 +131,7 @@ return_status
 
 <div align="center">
 
-<img width="70%" src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png"/>
+<img width="30%" src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png"/>
 
 </div>
 
