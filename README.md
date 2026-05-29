@@ -129,7 +129,7 @@ return_status
 
 <div align="center">
 
-<img width="30%" src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png"/>
+<img width="10%" src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png"/>
 
 </div>
 
@@ -162,7 +162,7 @@ return_status
 
 <div align="center">
 
-<img width="35%" src="https://cdn-icons-png.flaticon.com/512/942/942748.png"/>
+<img width="45%" src="https://cdn-icons-png.flaticon.com/512/942/942748.png"/>
 
 </div>
 
