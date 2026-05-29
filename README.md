@@ -1,84 +1,105 @@
-# 📚 Library Management System using SQL
+<h1 align="center">📚 Library Management System using SQL</h1>
+
+<p align="center">
+A relational database project designed to manage and organize library operations efficiently using SQL.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Project-SQL%20Database-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Type-DBMS-orange?style=for-the-badge">
+</p>
+
+---
 
 ## 📌 Project Overview
-This project is a **Library Management System** built using SQL.  
-It demonstrates how relational databases can be designed and managed to handle real-world library operations.
 
-The system manages:
-- Branches
-- Employees
-- Members
-- Books
-- Issue and Return Transactions
+This project is a **Library Management System** built using SQL and relational database concepts.  
+It helps manage books, employees, branches, members, and issue-return transactions in an organized way.
+
+The project demonstrates how SQL can be used to handle real-world database operations efficiently.
 
 ---
 
-## 🗂 Database Structure
+## ✨ Features
 
-The database `library_db` includes the following tables:
-
-- **branch** – Stores branch details
-- **employees** – Stores employee information
-- **members** – Stores library member data
-- **books** – Stores book details
-- **issued_status** – Tracks issued books
-- **return_status** – Tracks returned books
+✅ Database Design using Relational Model  
+✅ Primary & Foreign Key Relationships  
+✅ CRUD Operations  
+✅ Advanced SQL Queries  
+✅ Analytical Querying  
+✅ Data Management & Tracking  
 
 ---
 
-## ⚙️ Features Implemented
+## 🗂 Database Tables
 
-### ✅ Database Design
-- Primary Keys
-- Foreign Keys
-- Relational Mapping between tables
+| Table Name | Description |
+|---|---|
+| `branch` | Stores branch details |
+| `employees` | Stores employee information |
+| `members` | Stores library member data |
+| `books` | Stores book details |
+| `issued_status` | Tracks issued books |
+| `return_status` | Tracks returned books |
 
-### ✅ CRUD Operations
-- Insert new book records
-- Update member details
-- Delete issued records
-- Retrieve issued book details
+---
 
-### ✅ Advanced SQL Queries
-- GROUP BY & HAVING
-- JOIN operations
+## 📊 SQL Concepts Used
+
+- JOIN Operations
 - LEFT JOIN
+- GROUP BY & HAVING
+- Aggregate Functions
+- Window Functions (`RANK`)
 - CTAS (Create Table As Select)
-- Window Functions (RANK)
+- Subqueries
 
 ---
 
-## 📊 Advanced Query Examples
+## 🚀 Key Query Analysis
 
-- Members who issued more than one book
-- Books not yet returned
-- Ranking members by total books issued
-- Employees with branch manager details
-- Books above rental price threshold
+📌 Members who issued multiple books  
+📌 Books not yet returned  
+📌 Ranking members based on issued books  
+📌 Employee and branch relationship analysis  
+📌 Books above rental price threshold  
 
 ---
 
 ## 🛠 Technologies Used
 
-- SQL (MySQL)
+- MySQL
+- SQL
 - Relational Database Concepts
 
 ---
 
 ## 🎯 Learning Outcomes
 
-- Designed a normalized relational database
-- Implemented CRUD operations
-- Used advanced SQL concepts like:
-  - Aggregation
-  - Joins
-  - Subqueries
-  - Window Functions
-- Applied SQL to a real-world use case
+- Database Design
+- Relational Mapping
+- SQL Query Optimization
+- Data Analysis using SQL
+- CRUD Operations
+- Analytical Querying
+
+---
+
+## 📷 Project Preview
+
+<p align="center">
+  <img src="library-management-preview.png" width="100%">
+</p>
 
 ---
 
 ## 📌 Conclusion
 
-This project demonstrates how SQL can be used to build and manage a structured Library Management System.  
-It showcases database design, data manipulation, and analytical querying techniques in a practical scenario.
+This project demonstrates how SQL can be used to build a structured and scalable Library Management System while applying practical database management and querying techniques.
+
+---
+
+## 👨‍💻 Author
+
+Kunal Sarkar
