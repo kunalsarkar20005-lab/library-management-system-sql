@@ -162,7 +162,7 @@ return_status
 
 <div align="center">
 
-<img width="45%" src="https://cdn-icons-png.flaticon.com/512/942/942748.png"/>
+<img width="15%" src="https://cdn-icons-png.flaticon.com/512/942/942748.png"/>
 
 </div>
 
@@ -174,7 +174,7 @@ This project demonstrates how SQL and relational database concepts can be used t
 
 <div align="center">
 
-<img width="30" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"/>
+<img width="50" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"/>
 
 ## Kunal Sarkar
 
