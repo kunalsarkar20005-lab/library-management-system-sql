@@ -145,21 +145,32 @@ The **Library Management System** is a relational database project built using S
 
 <div align="center">
 
+<img src="https://img.icons8.com/fluency/96/database.png"/>
+
 ## Kunal Sarkar
 
-Computer Science Engineering Student
+### Computer Science Engineering Student
 
 <br>
 
-📚 Library Management System
+*"Transforming real-world problems into structured database solutions."*
 
-🔗 Relational Database Design
+<br>
 
-⚡ SQL Query Optimization
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-F29111?style=for-the-badge">
+<img src="https://img.shields.io/badge/DBMS-Project-success?style=for-the-badge">
 
-📊 Reporting & Analytics
+</div>
+
+---
+
+<div align="center">
+
+### 📚 Library Management System
+
+Efficient • Structured • Scalable
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
-```
