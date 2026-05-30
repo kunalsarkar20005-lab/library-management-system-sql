@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Status-Completed-purple?style=for-the-badge"/>
 
 <br><br>
-
+<img width="150" src="https://cdn-icons-png.freepik.com/512/2232/2232688.png">
 
 </div>
 
