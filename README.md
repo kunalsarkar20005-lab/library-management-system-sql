@@ -2,87 +2,117 @@
 
 # 📚 Library Management System
 
-### 🚀 SQL • DBMS • Relational Database Project
+### Smart Database Solution for Modern Library Operations
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=SQL+Database+Project;Library+Management+System;Book+Issue+%26+Return+Tracking;Data+Analysis+Using+SQL;Real+World+DBMS+Implementation)](https://git.io/typing-svg)
 
 <br>
 
-<img src="https://img.shields.io/badge/Database-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Language-SQL-F29111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Project-DBMS-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Completed-purple?style=for-the-badge"/>
-
-<br><br>
-<img width="150" src="https://cdn-icons-png.freepik.com/512/2232/2232688.png">
+![MySQL](https://img.shields.io/badge/MySQL-Database-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Structured_Query_Language-F29111?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-Project-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-purple?style=for-the-badge)
 
 </div>
 
 ---
 
-# 🌟 Project Overview
+## 📖 About The Project
 
-<div align="center">
+Libraries generate a large amount of data every day, including book records, member information, issue transactions, return transactions, employee details, and branch operations.
 
-<img width="18%" src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png"/>
+Managing this information manually can lead to data redundancy, inconsistencies, and inefficient record keeping.
 
-</div>
+The **Library Management System** is a relational database project built using SQL that provides a structured solution for storing, managing, and analyzing library data efficiently.
 
-The **Library Management System** is a **SQL-based relational database project** designed to efficiently manage and organize library operations in a structured and optimized way.
+This project demonstrates the practical implementation of:
 
-It demonstrates how real-world institutions use **Database Management Systems (DBMS)** to handle large-scale data with accuracy, consistency, and efficiency.
-
-This system helps in managing:
-
-- 📚 Books and their availability  
-- 👤 Library members and their activities  
-- 🏢 Library branches  
-- 👨‍💼 Employee records  
-- 🔄 Book issue and return tracking  
+- 📚 Book Management
+- 👤 Member Management
+- 👨‍💼 Employee Records
+- 🏢 Branch Operations
+- 🔄 Issue & Return Tracking
+- 📊 Data Analysis Using SQL
 
 ---
 
-# 🎯 Objectives of the Project
+## 🎯 Project Objectives
 
-This project was built with the goal of:
-
-✔ Understanding real-world DBMS structure  
-✔ Implementing relational database design  
-✔ Practicing SQL queries in real scenarios  
-✔ Managing relationships using keys (PK/FK)  
-✔ Performing data analysis using SQL  
-
----
-
-# ✨ Core Features
-
-<div align="center">
-
-| 🚀 Feature | 📖 Description |
-|---|---|
-| 🗄️ Database Design | Well-structured relational schema |
-| 🔑 Primary & Foreign Keys | Strong data relationship management |
-| 🔄 CRUD Operations | Insert, Update, Delete, Retrieve |
-| 📊 SQL Queries | Basic to advanced query execution |
-| 📈 Reporting System | Analytical insights from data |
-| ⚡ Query Optimization | Efficient and optimized queries |
-
-</div>
+- Design a normalized relational database
+- Establish relationships using Primary and Foreign Keys
+- Perform CRUD Operations
+- Track issued and returned books
+- Generate meaningful reports using SQL
+- Apply real-world DBMS concepts
 
 ---
 
-# 🗂️ Database Structure
+## 🏗️ Database Schema
 
-<div align="center">
+```text
+                ┌─────────────┐
+                │   BRANCH    │
+                └──────┬──────┘
+                       │
+                       ▼
+                ┌─────────────┐
+                │ EMPLOYEES   │
+                └──────┬──────┘
 
-<img width="15%" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"/>
+┌──────────┐     ┌─────▼─────┐      ┌──────────┐
+│  BOOKS   │────► ISSUED_STATUS ◄───│ MEMBERS  │
+└────┬─────┘     └─────┬─────┘      └──────────┘
+     │                 │
+     │                 ▼
+     │         ┌─────────────┐
+     └────────► RETURN_STATUS│
+               └─────────────┘
+```
 
-</div>
+## 📂 Tables Used
 
-The database consists of the following tables:
+| Table Name | Description |
+|------------|-------------|
+| Books | Stores book details |
+| Members | Stores member information |
+| Employees | Stores employee records |
+| Branch | Stores branch details |
+| Issued_Status | Tracks issued books |
+| Return_Status | Tracks returned books |
 
-```sql
-branch
-employees
-members
-books
-issued_status
-return_status
+---
+
+## 🚀 Features
+
+✅ Relational Database Design
+
+✅ Primary & Foreign Key Relationships
+
+✅ CRUD Operations
+
+✅ Advanced SQL Queries
+
+✅ Data Integrity Management
+
+✅ Reporting & Analytics
+
+✅ Book Issue & Return Tracking
+
+✅ Query Optimization
+
+---
+
+## 🛠️ Technologies Used
+
+- MySQL
+- SQL
+- DBMS
+- Relational Database Design
+
+---
+
+## 👨‍💻 Author
+
+### Kunal Sarkar
+
+Computer Science Engineering Student
