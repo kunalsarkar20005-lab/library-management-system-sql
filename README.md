@@ -13,7 +13,6 @@
 
 <br><br>
 
-<img width="45%" src="library-management-preview.png"/>
 
 </div>
 
