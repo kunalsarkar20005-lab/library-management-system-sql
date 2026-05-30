@@ -149,9 +149,17 @@ The **Library Management System** is a relational database project built using S
 
 Computer Science Engineering Student
 
+<br>
+
+📚 Library Management System
+
+🔗 Relational Database Design
+
+⚡ SQL Query Optimization
+
+📊 Reporting & Analytics
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
-
-```
 ```
