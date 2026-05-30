@@ -142,14 +142,15 @@ The **Library Management System** is a relational database project built using S
 ---
 
 # 👨‍💻 Author
-
 <div align="center">
 
-<img src="https://img.icons8.com/fluency/96/database.png"/>
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="220">
 
 ## Kunal Sarkar
 
 ### Computer Science Engineering Student
+
+</div>
 
 <br>
 
