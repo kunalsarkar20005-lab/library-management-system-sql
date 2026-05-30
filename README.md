@@ -142,6 +142,7 @@ The **Library Management System** is a relational database project built using S
 ---
 
 # 👨‍💻 Author
+
 <div align="center">
 
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="220">
@@ -150,11 +151,9 @@ The **Library Management System** is a relational database project built using S
 
 ### Computer Science Engineering Student
 
-</div>
-
 <br>
 
-*"Transforming real-world problems into structured database solutions."*
+> *Transforming real-world problems into structured database solutions.*
 
 <br>
 
@@ -162,16 +161,14 @@ The **Library Management System** is a relational database project built using S
 <img src="https://img.shields.io/badge/SQL-F29111?style=for-the-badge">
 <img src="https://img.shields.io/badge/DBMS-Project-success?style=for-the-badge">
 
-</div>
-
----
-
-<div align="center">
+<br><br>
 
 ### 📚 Library Management System
 
-Efficient • Structured • Scalable
+**Efficient • Structured • Scalable**
 
 </div>
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
