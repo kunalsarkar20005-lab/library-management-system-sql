@@ -13,37 +13,77 @@
 
 <br><br>
 
-<img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="120"/>
+<img width="45%" src="library-management-preview.png"/>
 
 </div>
 
 ---
 
-## 🌟 Overview
+# 🌟 Project Overview
 
-The **Library Management System** is a **relational database project using SQL** designed to efficiently manage library operations.
+<div align="center">
 
-It simulates a real-world system used in institutions for handling books, members, employees, and transactions.
+<img width="18%" src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png"/>
+
+</div>
+
+The **Library Management System** is a **SQL-based relational database project** designed to efficiently manage and organize library operations in a structured and optimized way.
+
+It demonstrates how real-world institutions use **Database Management Systems (DBMS)** to handle large-scale data with accuracy, consistency, and efficiency.
+
+This system helps in managing:
+
+- 📚 Books and their availability  
+- 👤 Library members and their activities  
+- 🏢 Library branches  
+- 👨‍💼 Employee records  
+- 🔄 Book issue and return tracking  
 
 ---
 
-## 📌 Key Modules
+# 🎯 Objectives of the Project
 
-- 📚 Book Management  
-- 👤 Member Management  
-- 🏢 Branch Management  
-- 👨‍💼 Employee Records  
-- 🔄 Issue & Return Tracking  
+This project was built with the goal of:
+
+✔ Understanding real-world DBMS structure  
+✔ Implementing relational database design  
+✔ Practicing SQL queries in real scenarios  
+✔ Managing relationships using keys (PK/FK)  
+✔ Performing data analysis using SQL  
 
 ---
 
-## ⚙️ Database Structure
+# ✨ Core Features
+
+<div align="center">
+
+| 🚀 Feature | 📖 Description |
+|---|---|
+| 🗄️ Database Design | Well-structured relational schema |
+| 🔑 Primary & Foreign Keys | Strong data relationship management |
+| 🔄 CRUD Operations | Insert, Update, Delete, Retrieve |
+| 📊 SQL Queries | Basic to advanced query execution |
+| 📈 Reporting System | Analytical insights from data |
+| ⚡ Query Optimization | Efficient and optimized queries |
+
+</div>
+
+---
+
+# 🗂️ Database Structure
+
+<div align="center">
+
+<img width="15%" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"/>
+
+</div>
+
+The database consists of the following tables:
 
 ```sql
-Tables:
-- branch
-- employees
-- members
-- books
-- issued_status
-- return_status
+branch
+employees
+members
+books
+issued_status
+return_status
